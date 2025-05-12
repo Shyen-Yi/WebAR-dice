@@ -1,0 +1,23 @@
+body {
+    font-family: Inter, sans-serif;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+button {
+    background-color: #18A0FB;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0D8DE3;
+} 
